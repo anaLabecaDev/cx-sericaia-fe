@@ -11,7 +11,7 @@ import Bootstrap from 'src/Bootstrap';
 // Remove these in package.json as well if removed here.
 import 'bootstrap/dist/css/bootstrap.css';
 import 'nprogress/nprogress.css';
-import 'assets/app.css';
+import 'assets/app.module.scss';
 
 NProgress.configure({ showSpinner: false, trickleSpeed: 100 });
 

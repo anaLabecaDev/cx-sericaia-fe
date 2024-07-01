@@ -1,0 +1,19 @@
+.hero_container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  min-height: 512px;
+
+  h1,
+  h2 {
+    color: white;
+    background-color: #a1bf36;
+  }
+}
+
